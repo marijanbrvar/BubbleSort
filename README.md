@@ -20,11 +20,11 @@
 - Twitter: [@twitterhandle](https://twitter.com/marijanbrvar)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/marijanbrvar)
 
-👤 **Author2**
+👤 **Tanzila**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/tanzila-abedin)
+- Twitter: [@twitterhandle](https://twitter.com/TanzilaAbedin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
 
 ## 📝 License
 
