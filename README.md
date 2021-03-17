@@ -11,6 +11,44 @@
 
 - Ruby
 
+## Prerequest
+
+Ruby instaled.
+
+## How to use instructions
+
+- Bubble Sort [buble_sort.rb] — buble_sort method accept one argument(array)
+  
+  To test code you can provide following line at the and of the code
+
+  ```ruby
+  p bubble_sort([4, 3, 78, 2, 0, 2])
+  ```
+  
+  and then run from terminal
+  
+  ```terminal
+  foo:$ ruby bubble_sort.rb
+  ```
+
+- in this case, it receives a block of code and uses yield in method to execute the descending sort
+  
+  To test the code, you can provide the following line at the end of the code.
+
+  ```ruby
+  sorted_by_array = bubble_sort_by(%w[hi hello hey]) do |left, right|
+    left.length - right.length
+  end
+
+  p sorted_by_array
+  ```
+  
+  and then run from terminal
+  
+  ```terminal
+  foo:$ ruby bubble_sort_by.rb
+  ```
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -21,11 +59,14 @@ To get a local copy up and running follow these simple example steps.
 4. Run `git checkout -b your-branch-name`. Make your contributions
 5. Push your branch up to your forked repository
 6. Open a Pull Request with a detailed description of the development branch of the original project for a review
+>>>>>>> development
 
 ## Authors
 
 👤 **Marijan Brvar**
+
 ![Marijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marijanbrvar&count_private=true&theme=dark&show_icons=true)
+
 
 - GitHub: [@githubhandle](https://github.com/marijanbrvar)
 - Twitter: [@twitterhandle](https://twitter.com/marijanbrvar)
