@@ -11,6 +11,7 @@
 
 - Ruby
 
+<<<<<<< HEAD
 ## Prerequest
 
 Ruby instaled.
@@ -48,6 +49,18 @@ Ruby instaled.
   ```terminal
   foo:$ ruby bubble_sort_by.rb
   ```
+=======
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+1. Go to https://github.com/marijanbrvar/BubbleSort.git
+2. Click on the code button and copy the HTTPS/ SSH code.
+3. On terminal, use "git clone" command followed by pasting HTTPS/SSH URl to clone this repository on your local machine.
+4. Run `git checkout -b your-branch-name`. Make your contributions
+5. Push your branch up to your forked repository
+6. Open a Pull Request with a detailed description of the development branch of the original project for a review
+>>>>>>> development
 
 ## Authors
 
