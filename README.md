@@ -11,6 +11,44 @@
 
 - Ruby
 
+## Prerequest
+
+Ruby instaled.
+
+## How to use instructions
+
+- Bubble Sort [buble_sort.rb] — buble_sort method accept one argument(array)
+  
+  To test code you can provide following line at the and of the code
+
+  ```ruby
+  p bubble_sort([4, 3, 78, 2, 0, 2])
+  ```
+  
+  and then run from terminal
+  
+  ```terminal
+  foo:$ ruby bubble_sort.rb
+  ```
+
+- in this case, it receives a block of code and uses yield in method to execute the descending sort
+  
+  To test the code, you can provide the following line at the end of the code.
+
+  ```ruby
+  sorted_by_array = bubble_sort_by(%w[hi hello hey]) do |left, right|
+    left.length - right.length
+  end
+
+  p sorted_by_array
+  ```
+  
+  and then run from terminal
+  
+  ```terminal
+  foo:$ ruby bubble_sort_by.rb
+  ```
+
 ## Authors
 
 👤 **Marijan Brvar**
@@ -20,11 +58,11 @@
 - Twitter: [@twitterhandle](https://twitter.com/marijanbrvar)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/marijanbrvar)
 
-👤 **Author2**
+👤 **Tanzila**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/tanzila-abedin)
+- Twitter: [@twitterhandle](https://twitter.com/TanzilaAbedin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
 
 ## 📝 License
 
