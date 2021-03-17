@@ -19,7 +19,7 @@ Ruby instaled.
 
 - Bubble Sort [buble_sort.rb] — buble_sort method accept one argument(array)
   
-  To test code you can provide following line at the and of the code
+  To test code you can provide following line at the end of the code
 
   ```ruby
   p bubble_sort([4, 3, 78, 2, 0, 2])
@@ -54,8 +54,8 @@ Ruby instaled.
 To get a local copy up and running follow these simple example steps.
 
 1. Go to https://github.com/marijanbrvar/BubbleSort.git
-2. Click on the code button and copy the HTTPS/ SSH code.
-3. On terminal, use "git clone" command followed by pasting HTTPS/SSH URl to clone this repository on your local machine.
+2. Click on the code button and copy the HTTPS/ SSH URL.
+3. On terminal, type `git clone` command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
 4. Run `git checkout -b your-branch-name`. Make your contributions
 5. Push your branch up to your forked repository
 6. Open a Pull Request with a detailed description of the development branch of the original project for a review
