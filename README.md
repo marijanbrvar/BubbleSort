@@ -13,7 +13,7 @@
 
 ## Prerequest
 
-Ruby instaled.
+Ruby installed.
 
 ## How to use instructions
 
@@ -31,7 +31,7 @@ Ruby instaled.
   foo:$ ruby bubble_sort.rb
   ```
 
-- in this case, it receives a block of code and uses yield in method to execute the descending sort
+- In this case, it receives a block of code and uses yield in method to execute the descending sort
   
   To test the code, you can provide the following line at the end of the code.
 
