@@ -11,6 +11,20 @@
 
 - Ruby
 
+## Getting Started
+
+First ensure that you have ruby installed on your local machine.
+
+To get a local copy up and running follow these simple example steps.
+
+## Install
+
+Download a copy of the bubblesort.rb file
+
+## Usage
+
+Execute in terminal like `ruby bubblesort.rb`
+
 ## Authors
 
 👤 **Marijan Brvar**
@@ -28,4 +42,4 @@
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](LICENSE) licensed.
