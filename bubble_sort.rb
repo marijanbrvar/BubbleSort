@@ -17,6 +17,7 @@ def bubble_sort(array)
      array[i], array[i + 1] = array[i + 1], array[i]
      puts i  
   end
+end
   array
 end
 
