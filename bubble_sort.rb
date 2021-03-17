@@ -20,12 +20,3 @@ def bubble_sort(array)
   array
 end
 
-#   n = array.length
-#   i = 0
-#   while i < n
-#      if array[i] > array[i + 1]
-#        array[i], array[i + 1] = array[i + 1], array[i]
-#         i += 1
-#      end
-
-# end
