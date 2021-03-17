@@ -11,7 +11,6 @@
 
 - Ruby
 
-<<<<<<< HEAD
 ## Prerequest
 
 Ruby instaled.
@@ -49,7 +48,7 @@ Ruby instaled.
   ```terminal
   foo:$ ruby bubble_sort_by.rb
   ```
-=======
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
