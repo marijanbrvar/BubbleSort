@@ -11,7 +11,7 @@
 
 - Ruby
 
-## Prerequest
+## Pre-request
 
 Ruby installed.
 
